@@ -1,65 +1,33 @@
-# 📊 Alura Store Latam - Análisis de Datos
+# AluraStore Latam - Análisis de Datos
 
-Proyecto de análisis de datos para Alura Store Latam. Análisis de ventas, categorías, calificaciones y recomendaciones de negocio.
+## 📋 Descripción
+Breve descripción del proyecto y sus objetivos.
 
-## 📋 Tabla de Contenidos
-- [Objetivo](#objetivo)
-- [Metodología](#metodología)
-- [Análisis Realizados](#análisis-realizados)
-- [Conclusiones](#conclusiones)
-- [Recomendación Final](#recomendación-final)
+## 🎯 Objetivos
+- Objetivo 1
+- Objetivo 2
 
-## 🎯 Objetivo
-Analizar el desempeño de 4 tiendas de Alura Store Latam para identificar cuál debería ser vendida basándose en métricas de:
-- Facturación total
-- Calificación de clientes
-- Costos de envío
-- Productos más y menos vendidos
+## 📊 Análisis Realizado
+1. Análisis de facturación por tienda
+2. Calificación promedio de clientes
+3. Costo de envío promedio
+4. Productos más y menos vendidos
 
-## 📊 Análisis Realizados
-
-### 1. Análisis de Facturación
-- Cálculo de facturación total por tienda
-- Identificación de la tienda con menor facturación
-
-### 2. Ventas por Categoría
-- Categorías más populares por tienda
-- Distribución de ventas por producto
-
-### 3. Calificación Promedio
-- Evaluación de satisfacción del cliente
-- Comparación entre tiendas
-
-### 4. Costo de Envío Promedio
-- Análisis de logística por tienda
-
-### 5. Productos Más y Menos Vendidos
-- Top 5 productos más vendidos
-- Top 5 productos menos vendidos
-
-## 📈 Resultados Principales
-
-### Facturación por Tienda
-![Facturación](assets/facturacion.png)
-
-### Calificación de Clientes
-![Calificación](assets/calificacion.png)
-
-### Costo de Envío
-![Envío](assets/envio.png)
-
-## 💡 Conclusión
-El análisis reveló diferencias significativas en el desempeño de las tiendas, permitiendo identificar oportunidades de mejora y tomar decisiones basadas en datos.
-
-## 🔧 Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 - Python
 - Pandas
-- Matplotlib
-- Seaborn
+- Matplotlib/Seaborn
 - Jupyter Notebook
 
----
-*Proyecto desarrollado como parte del Challenge One de Alura Latam*
+## 📁 Estructura del Proyecto
+AluraStoreLatam/
+├── data/
+├── notebooks/
+├── README.md
+└── requirements.txt
+📈 Resultados Principales
+Tienda con mejor desempeño
+Recomendaciones
 
 ## 👤 Autor Jesica Sosa G
 
