@@ -2,36 +2,64 @@
 
 Proyecto de análisis de datos para Alura Store Latam. Análisis de ventas, categorías, calificaciones y recomendaciones de negocio.
 
-## 📋 Descripción
-
-Este proyecto analiza el desempeño de 4 tiendas de Alura Store Latam considerando:
-- Facturación total por tienda
-- Categorías más populares
-- Calificación promedio de clientes
-- Productos más y menos vendidos
-- Costos de envío promedio
+## 📋 Tabla de Contenidos
+- [Objetivo](#objetivo)
+- [Metodología](#metodología)
+- [Análisis Realizados](#análisis-realizados)
+- [Conclusiones](#conclusiones)
+- [Recomendación Final](#recomendación-final)
 
 ## 🎯 Objetivo
+Analizar el desempeño de 4 tiendas de Alura Store Latam para identificar cuál debería ser vendida basándose en métricas de:
+- Facturación total
+- Calificación de clientes
+- Costos de envío
+- Productos más y menos vendidos
 
-Identificar qué tienda debería vender el Sr. Juan basándose en métricas de rendimiento.
+## 📊 Análisis Realizados
 
-## 📁 Archivos
+### 1. Análisis de Facturación
+- Cálculo de facturación total por tienda
+- Identificación de la tienda con menor facturación
 
-- `Copia_de_AluraStoreLatam.ipynb` - Notebook con el análisis completo
+### 2. Ventas por Categoría
+- Categorías más populares por tienda
+- Distribución de ventas por producto
 
-## 🛠️ Tecnologías
+### 3. Calificación Promedio
+- Evaluación de satisfacción del cliente
+- Comparación entre tiendas
 
+### 4. Costo de Envío Promedio
+- Análisis de logística por tienda
+
+### 5. Productos Más y Menos Vendidos
+- Top 5 productos más vendidos
+- Top 5 productos menos vendidos
+
+## 📈 Resultados Principales
+
+### Facturación por Tienda
+![Facturación](assets/facturacion.png)
+
+### Calificación de Clientes
+![Calificación](assets/calificacion.png)
+
+### Costo de Envío
+![Envío](assets/envio.png)
+
+## 💡 Conclusión
+El análisis reveló diferencias significativas en el desempeño de las tiendas, permitiendo identificar oportunidades de mejora y tomar decisiones basadas en datos.
+
+## 🔧 Tecnologías Utilizadas
 - Python
 - Pandas
-- Matplotlib/Seaborn
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 
-## 📊 Conclusiones
-
-**Recomendación final:** Tienda 4 es la que debería venderse por presentar:
-- Menor facturación ($1,038,375,700)
-- Menor calificación de clientes (4.00/5.0)
-- Menor costo de envío promedio
+---
+*Proyecto desarrollado como parte del Challenge One de Alura Latam*
 
 ## 👤 Autor Jesica Sosa G
 
